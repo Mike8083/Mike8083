@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning the skills from GIT
 - 👯 I’m looking to collaborate on Git and GitHub
 
-- 💬 Ask me about my freetime
+- 💬 Ask me about my hobbys
 
-- ⚡ Fun fact: im intersested at Computers
+- ⚡ Fun fact:Im interested at Computers
