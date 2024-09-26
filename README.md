@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on a Project
+- 🌱 I’m currently learning the skills from GIT
+- 👯 I’m looking to collaborate on Git and GitHub
 
-- 💬 Ask me about ...
+- 💬 Ask me about my freetime
 
-- ⚡ Fun fact: ..
+- ⚡ Fun fact: im intersested at Computers
